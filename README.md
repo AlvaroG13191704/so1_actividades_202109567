@@ -2,3 +2,4 @@
 
 ## Actividades 
 ### [ACTIVIDAD 1](actividad1/readme.md)
+### [ACTIVIDAD 2](actividad2/readme.md)
