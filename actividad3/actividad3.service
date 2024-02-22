@@ -1,0 +1,11 @@
+[Unit]
+Description=Actividad 3
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/alvarog/actividad3.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
