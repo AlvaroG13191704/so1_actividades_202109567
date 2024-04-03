@@ -6,3 +6,4 @@
 ### [ACTIVIDAD 3](actividad3/readme.md)
 ### [ACTIVIDAD 4](actividad4/readme.md)
 ### [ACTIVIDAD 5](actividad5/readme.md)
+### [ACTIVIDAD 7](actividad7/readme.md)
